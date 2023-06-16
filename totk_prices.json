@@ -895,6 +895,268 @@
   ],
   "dishes": [
     {
+      "name": "Bright Mushroom Skewer",
+      "recipes": [
+        {
+          "ingredients": {
+            "Brightcap": 1
+          },
+          "sellPrice": 4
+        },
+        {
+          "ingredients": {
+            "Brightcap": 2
+          },
+          "sellPrice": 10
+        },
+        {
+          "ingredients": {
+            "Brightcap": 3
+          },
+          "sellPrice": 16
+        },
+        {
+          "ingredients": {
+            "Brightcap": 4
+          },
+          "sellPrice": 25
+        },
+        {
+          "ingredients": {
+            "Brightcap": 5
+          },
+          "sellPrice": 36
+        }
+      ]
+    },
+    {
+      "name": "Dubious Food",
+      "recipes": [
+        {
+          "ingredients": {
+            "Bokoblin Horn": 1
+          },
+          "sellPrice": 15,
+          "convertedDish": "Monster Stew",
+          "conversionFee": 10
+        },
+        {
+          "ingredients": {
+            "Hateno Cheese": 5
+          },
+          "sellPrice": 15,
+          "convertedDish": "Monster Stew",
+          "conversionFee": 10
+        }
+      ]
+    },
+    {
+      "name": "Energizing Honey Candy",
+      "recipes": [
+        {
+          "ingredients": {
+            "Courser Bee Honey": 5
+          },
+          "sellPrice": 90
+        }
+      ]
+    },
+    {
+      "name": "Hasty Simmered Fruit",
+      "recipes": [
+        {
+          "ingredients": {
+            "Fleet-Lotus Seeds": 1
+          },
+          "sellPrice": 6
+        },
+        {
+          "ingredients": {
+            "Fleet-Lotus Seeds": 2
+          },
+          "sellPrice": 13
+        },
+        {
+          "ingredients": {
+            "Fleet-Lotus Seeds": 3
+          },
+          "sellPrice": 21
+        },
+        {
+          "ingredients": {
+            "Fleet-Lotus Seeds": 4
+          },
+          "sellPrice": 32
+        },
+        {
+          "ingredients": {
+            "Fleet-Lotus Seeds": 5
+          },
+          "sellPrice": 45
+        }
+      ]
+    },
+    {
+      "name": "Hylian Tomato Pizza",
+      "recipes": [
+        {
+          "ingredients": {
+            "Hateno Cheese": 1,
+            "Hylian Tomato": 1,
+            "Tabantha Wheat": 1
+          },
+          "sellPrice": 16
+        }
+      ]
+    },
+    {
+      "name": "Meat Skewer",
+      "recipes": [
+        {
+          "ingredients": {
+            "Raw Bird Drumstick": 1
+          },
+          "sellPrice": 9
+        },
+        {
+          "ingredients": {
+            "Raw Bird Drumstick": 2
+          },
+          "sellPrice": 20
+        },
+        {
+          "ingredients": {
+            "Raw Bird Drumstick": 3
+          },
+          "sellPrice": 33
+        },
+        {
+          "ingredients": {
+            "Raw Bird Drumstick": 4
+          },
+          "sellPrice": 51
+        },
+        {
+          "ingredients": {
+            "Raw Bird Drumstick": 5
+          },
+          "sellPrice": 72
+        },
+        {
+          "ingredients": {
+            "Raw Meat": 1
+          },
+          "sellPrice": 9
+        },
+        {
+          "ingredients": {
+            "Raw Meat": 2
+          },
+          "sellPrice": 20
+        },
+        {
+          "ingredients": {
+            "Raw Meat": 3
+          },
+          "sellPrice": 33
+        },
+        {
+          "ingredients": {
+            "Raw Meat": 4
+          },
+          "sellPrice": 51
+        },
+        {
+          "ingredients": {
+            "Raw Meat": 5
+          },
+          "sellPrice": 72
+        },
+        {
+          "ingredients": {
+            "Raw Prime Meat": 1
+          },
+          "sellPrice": 18
+        },
+        {
+          "ingredients": {
+            "Raw Prime Meat": 2
+          },
+          "sellPrice": 39
+        },
+        {
+          "ingredients": {
+            "Raw Prime Meat": 3
+          },
+          "sellPrice": 63
+        },
+        {
+          "ingredients": {
+            "Raw Prime Meat": 4
+          },
+          "sellPrice": 96
+        },
+        {
+          "ingredients": {
+            "Raw Prime Meat": 5
+          },
+          "sellPrice": 135
+        }        
+      ]
+    },
+    {
+      "name": "Omelet",
+      "recipes": [
+        {
+          "ingredients": {
+            "Bird Egg": 1
+          },
+          "sellPrice": 3
+        },
+        {
+          "ingredients": {
+            "Bird Egg": 2
+          },
+          "sellPrice": 7
+        },
+        {
+          "ingredients": {
+            "Bird Egg": 3
+          },
+          "sellPrice": 12
+        },
+        {
+          "ingredients": {
+            "Bird Egg": 4
+          },
+          "sellPrice": 19
+        },
+        {
+          "ingredients": {
+            "Bird Egg": 5
+          },
+          "sellPrice": 27
+        }
+      ]
+    },
+    {
+      "name": "Roasted Porgy",
+      "recipes": [
+        {
+          "ingredients": {
+            "Armored Porgy": 1
+          },
+          "sellPrice": 15
+        },
+        {
+          "ingredients": {
+            "Mighty Porgy": 1
+          },
+          "sellPrice": 15
+        }
+      ]
+    },
+    {
       "name": "Simmered Fruit",
       "recipes": [
         {
@@ -936,6 +1198,86 @@
             }
           ],
           "sellPrice": 27
+        },
+        {
+          "ingredients": [
+            {
+              "Brightbloom Seed": 1
+            }
+          ],
+          "sellPrice": 2
+        },
+        {
+          "ingredients": [
+            {
+              "Brightbloom Seed": 2
+            }
+          ],
+          "sellPrice": 5
+        },
+        {
+          "ingredients": [
+            {
+              "Brightbloom Seed": 3
+            }
+          ],
+          "sellPrice": 8
+        },
+        {
+          "ingredients": [
+            {
+              "Brightbloom Seed": 4
+            }
+          ],
+          "sellPrice": 12
+        },
+        {
+          "ingredients": [
+            {
+              "Brightbloom Seed": 5
+            }
+          ],
+          "sellPrice": 18
+        },
+        {
+          "ingredients": [
+            {
+              "Giant Brightbloom Seed": 1
+            }
+          ],
+          "sellPrice": 4
+        },
+        {
+          "ingredients": [
+            {
+              "Giant Brightbloom Seed": 2
+            }
+          ],
+          "sellPrice": 10
+        },
+        {
+          "ingredients": [
+            {
+              "Giant Brightbloom Seed": 3
+            }
+          ],
+          "sellPrice": 16
+        },
+        {
+          "ingredients": [
+            {
+              "Giant Brightbloom Seed": 4
+            }
+          ],
+          "sellPrice": 25
+        },
+        {
+          "ingredients": [
+            {
+              "Giant Brightbloom Seed": 5
+            }
+          ],
+          "sellPrice": 36
         },
         {
           "ingredients": [
@@ -1056,6 +1398,76 @@
             }
           ],
           "sellPrice": 27
+        }
+      ]
+    },
+    {
+      "name": "Sneaky Fried Wild Greens",
+      "recipes": [
+        {
+          "ingredients": {
+            "Silent Princess": 1
+          },
+          "sellPrice": 12
+        },
+        {
+          "ingredients": {
+            "Silent Princess": 2
+          },
+          "sellPrice": 26
+        },
+        {
+          "ingredients": {
+            "Silent Princess": 3
+          },
+          "sellPrice": 42
+        },
+        {
+          "ingredients": {
+            "Silent Princess": 4
+          },
+          "sellPrice": 64
+        },
+        {
+          "ingredients": {
+            "Silent Princess": 5
+          },
+          "sellPrice": 90
+        }
+      ]
+    },
+    {
+      "name": "Tough Fried Wild Greens",
+      "recipes": [
+        {
+          "ingredients": {
+            "Armoranth": 1
+          },
+          "sellPrice": 6
+        },
+        {
+          "ingredients": {
+            "Armoranth": 2
+          },
+          "sellPrice": 13
+        },
+        {
+          "ingredients": {
+            "Armoranth": 3
+          },
+          "sellPrice": 21
+        },
+        {
+          "ingredients": {
+            "Armoranth": 4
+          },
+          "sellPrice": 32
+        },
+        {
+          "ingredients": {
+            "Armoranth": 5
+          },
+          "sellPrice": 45
         }
       ]
     }
