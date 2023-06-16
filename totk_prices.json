@@ -1101,7 +1101,7 @@
             "Raw Prime Meat": 5
           },
           "sellPrice": 135
-        }        
+        }
       ]
     },
     {
@@ -1160,243 +1160,183 @@
       "name": "Simmered Fruit",
       "recipes": [
         {
-          "ingredients": [
-            {
-              "Apple": 1
-            }
-          ],
+          "ingredients": {
+            "Apple": 1
+          },
           "sellPrice": 3
         },
         {
-          "ingredients": [
-            {
-              "Apple": 2
-            }
-          ],
+          "ingredients": {
+            "Apple": 2
+          },
           "sellPrice": 7
         },
         {
-          "ingredients": [
-            {
-              "Apple": 3
-            }
-          ],
+          "ingredients": {
+            "Apple": 3
+          },
           "sellPrice": 12
         },
         {
-          "ingredients": [
-            {
-              "Apple": 4
-            }
-          ],
+          "ingredients": {
+            "Apple": 4
+          },
           "sellPrice": 19
         },
         {
-          "ingredients": [
-            {
-              "Apple": 5
-            }
-          ],
+          "ingredients": {
+            "Apple": 5
+          },
           "sellPrice": 27
         },
         {
-          "ingredients": [
-            {
-              "Brightbloom Seed": 1
-            }
-          ],
+          "ingredients": {
+            "Brightbloom Seed": 1
+          },
           "sellPrice": 2
         },
         {
-          "ingredients": [
-            {
-              "Brightbloom Seed": 2
-            }
-          ],
+          "ingredients": {
+            "Brightbloom Seed": 2
+          },
           "sellPrice": 5
         },
         {
-          "ingredients": [
-            {
-              "Brightbloom Seed": 3
-            }
-          ],
+          "ingredients": {
+            "Brightbloom Seed": 3
+          },
           "sellPrice": 8
         },
         {
-          "ingredients": [
-            {
-              "Brightbloom Seed": 4
-            }
-          ],
+          "ingredients": {
+            "Brightbloom Seed": 4
+          },
           "sellPrice": 12
         },
         {
-          "ingredients": [
-            {
-              "Brightbloom Seed": 5
-            }
-          ],
+          "ingredients": {
+            "Brightbloom Seed": 5
+          },
           "sellPrice": 18
         },
         {
-          "ingredients": [
-            {
-              "Giant Brightbloom Seed": 1
-            }
-          ],
+          "ingredients": {
+            "Giant Brightbloom Seed": 1
+          },
           "sellPrice": 4
         },
         {
-          "ingredients": [
-            {
-              "Giant Brightbloom Seed": 2
-            }
-          ],
+          "ingredients": {
+            "Giant Brightbloom Seed": 2
+          },
           "sellPrice": 10
         },
         {
-          "ingredients": [
-            {
-              "Giant Brightbloom Seed": 3
-            }
-          ],
+          "ingredients": {
+            "Giant Brightbloom Seed": 3
+          },
           "sellPrice": 16
         },
         {
-          "ingredients": [
-            {
-              "Giant Brightbloom Seed": 4
-            }
-          ],
+          "ingredients": {
+            "Giant Brightbloom Seed": 4
+          },
           "sellPrice": 25
         },
         {
-          "ingredients": [
-            {
-              "Giant Brightbloom Seed": 5
-            }
-          ],
+          "ingredients": {
+            "Giant Brightbloom Seed": 5
+          },
           "sellPrice": 36
         },
         {
-          "ingredients": [
-            {
-              "Golden Apple": 1
-            }
-          ],
+          "ingredients": {
+            "Golden Apple": 1
+          },
           "sellPrice": 9
         },
         {
-          "ingredients": [
-            {
-              "Golden Apple": 2
-            }
-          ],
+          "ingredients": {
+            "Golden Apple": 2
+          },
           "sellPrice": 20
         },
         {
-          "ingredients": [
-            {
-              "Golden Apple": 3
-            }
-          ],
+          "ingredients": {
+            "Golden Apple": 3
+          },
           "sellPrice": 33
         },
         {
-          "ingredients": [
-            {
-              "Golden Apple": 4
-            }
-          ],
+          "ingredients": {
+            "Golden Apple": 4
+          },
           "sellPrice": 51
         },
         {
-          "ingredients": [
-            {
-              "Golden Apple": 5
-            }
-          ],
+          "ingredients": {
+            "Golden Apple": 5
+          },
           "sellPrice": 72
         },
         {
-          "ingredients": [
-            {
-              "Palm Fruit": 1
-            }
-          ],
+          "ingredients": {
+            "Palm Fruit": 1
+          },
           "sellPrice": 4
         },
         {
-          "ingredients": [
-            {
-              "Palm Fruit": 2
-            }
-          ],
+          "ingredients": {
+            "Palm Fruit": 2
+          },
           "sellPrice": 10
         },
         {
-          "ingredients": [
-            {
-              "Palm Fruit": 3
-            }
-          ],
+          "ingredients": {
+            "Palm Fruit": 3
+          },
           "sellPrice": 16
         },
         {
-          "ingredients": [
-            {
-              "Palm Fruit": 4
-            }
-          ],
+          "ingredients": {
+            "Palm Fruit": 4
+          },
           "sellPrice": 25
         },
         {
-          "ingredients": [
-            {
-              "Palm Fruit": 5
-            }
-          ],
+          "ingredients": {
+            "Palm Fruit": 5
+          },
           "sellPrice": 36
         },
         {
-          "ingredients": [
-            {
-              "Wildberry": 1
-            }
-          ],
+          "ingredients": {
+            "Wildberry": 1
+          },
           "sellPrice": 3
         },
         {
-          "ingredients": [
-            {
-              "Wildberry": 2
-            }
-          ],
+          "ingredients": {
+            "Wildberry": 2
+          },
           "sellPrice": 7
         },
         {
-          "ingredients": [
-            {
-              "Wildberry": 3
-            }
-          ],
+          "ingredients": {
+            "Wildberry": 3
+          },
           "sellPrice": 12
         },
         {
-          "ingredients": [
-            {
-              "Wildberry": 4
-            }
-          ],
+          "ingredients": {
+            "Wildberry": 4
+          },
           "sellPrice": 19
         },
         {
-          "ingredients": [
-            {
-              "Wildberry": 5
-            }
-          ],
+          "ingredients": {
+            "Wildberry": 5
+          },
           "sellPrice": 27
         }
       ]
