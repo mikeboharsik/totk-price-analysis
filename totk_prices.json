@@ -1,0 +1,503 @@
+{
+  "ingredients": [
+    {
+      "name": "Acorn",
+      "sellPrice": 2
+    },
+    {
+      "name": "Ancient Arowana",
+      "sellPrice": 6
+    },
+    {
+      "name": "Apple",
+      "sellPrice": 3
+    },
+    {
+      "name": "Armoranth",
+      "sellPrice": 5
+    },
+    {
+      "name": "Armored Carp",
+      "sellPrice": 10
+    },
+    {
+      "name": "Armored Porgy",
+      "sellPrice": 10
+    },
+    {
+      "name": "Big Hearty Radish",
+      "sellPrice": 25
+    },
+    {
+      "name": "Big Hearty Truffle",
+      "sellPrice": 25
+    },
+    {
+      "name": "Bird Egg",
+      "sellPrice": 3
+    },
+    {
+      "name": "Blue Nightshade",
+      "sellPrice": 4
+    },
+    {
+      "name": "Bomb Flower",
+      "sellPrice": 10
+    },
+    {
+      "name": "Brightcap",
+      "sellPrice": 4
+    },
+    {
+      "name": "Cane Sugar",
+      "sellPrice": 3
+    },
+    {
+      "name": "Chickaloo Tree Nut",
+      "sellPrice": 3
+    },
+    {
+      "name": "Chillfin Trout",
+      "sellPrice": 6
+    },
+    {
+      "name": "Chillshroom",
+      "sellPrice": 4
+    },
+    {
+      "name": "Cool Safflina",
+      "sellPrice": 3
+    },
+    {
+      "name": "Courser Bee Honey",
+      "sellPrice": 10
+    },
+    {
+      "name": "Dark Clump",
+      "sellPrice": 5
+    },
+    {
+      "name": "Dazzlefruit",
+      "sellPrice": 5
+    },
+    {
+      "name": "Electric Safflina",
+      "sellPrice": 3
+    },
+    {
+      "name": "Endura Carrot",
+      "sellPrice": 20
+    },
+    {
+      "name": "Endura Shroom",
+      "sellPrice": 15
+    },
+    {
+      "name": "Fire Fruit",
+      "sellPrice": 3
+    },
+    {
+      "name": "Fleet-Lotus Seeds",
+      "sellPrice": 5
+    },
+    {
+      "name": "Fortified Pumpkin",
+      "sellPrice": 5
+    },
+    {
+      "name": "Fresh Milk",
+      "sellPrice": 3
+    },
+    {
+      "name": "Glowing Cave Fish",
+      "sellPrice": 6
+    },
+    {
+      "name": "Goat Butter",
+      "sellPrice": 3
+    },
+    {
+      "name": "Golden Apple",
+      "sellPrice": 8
+    },
+    {
+      "name": "Goron Spice",
+      "sellPrice": 4
+    },
+    {
+      "name": "Hateno Cheese",
+      "sellPrice": 5
+    },
+    {
+      "name": "Hearty Bass",
+      "sellPrice": 18
+    },
+    {
+      "name": "Hearty Radish",
+      "sellPrice": 20
+    },
+    {
+      "name": "Hearty Truffle",
+      "sellPrice": 20
+    },
+    {
+      "name": "Hydromelon",
+      "sellPrice": 4
+    },
+    {
+      "name": "Hylian Rice",
+      "sellPrice": 3
+    },
+    {
+      "name": "Hylian Shroom",
+      "sellPrice": 3
+    },
+    {
+      "name": "Hylian Tomato",
+      "sellPrice": 4
+    },
+    {
+      "name": "Hyrule Bass",
+      "sellPrice": 6
+    },
+    {
+      "name": "Hyrule Herb",
+      "sellPrice": 3
+    },
+    {
+      "name": "Ice Fruit",
+      "sellPrice": 3
+    },
+    {
+      "name": "Ironshroom",
+      "sellPrice": 5
+    },
+    {
+      "name": "Korok Frond",
+      "sellPrice": 3
+    },
+    {
+      "name": "Mighty Banana",
+      "sellPrice": 5
+    },
+    {
+      "name": "Mighty Carp",
+      "sellPrice": 10
+    },
+    {
+      "name": "Mighty Porgy",
+      "sellPrice": 10
+    },
+    {
+      "name": "Mighty Thistle",
+      "sellPrice": 5
+    },
+    {
+      "name": "Monster Extract",
+      "sellPrice": 12
+    },
+    {
+      "name": "Muddle Bud",
+      "sellPrice": 10
+    },
+    {
+      "name": "Oil Jar",
+      "sellPrice": 3
+    },
+    {
+      "name": "Palm Fruit",
+      "sellPrice": 4
+    },
+    {
+      "name": "Puffshroom",
+      "sellPrice": 10
+    },
+    {
+      "name": "Raw Bird Drumstick",
+      "sellPrice": 8
+    },
+    {
+      "name": "Raw Bird Thigh",
+      "sellPrice": 15
+    },
+    {
+      "name": "Raw Gourmet Meat",
+      "sellPrice": 35
+    },
+    {
+      "name": "Raw Meat",
+      "sellPrice": 8
+    },
+    {
+      "name": "Raw Prime Meat",
+      "sellPrice": 15
+    },
+    {
+      "name": "Razorshroom",
+      "sellPrice": 5
+    },
+    {
+      "name": "Rock Salt",
+      "sellPrice": 2
+    },
+    {
+      "name": "Rushroom",
+      "sellPrice": 3
+    },
+    {
+      "name": "Sanke Carp",
+      "sellPrice": 20
+    },
+    {
+      "name": "Shock Fruit",
+      "sellPrice": 3
+    },
+    {
+      "name": "Silent Princess",
+      "sellPrice": 10
+    },
+    {
+      "name": "Silent Shroom",
+      "sellPrice": 3
+    },
+    {
+      "name": "Sizzlefin Trout",
+      "sellPrice": 6
+    },
+    {
+      "name": "Skyshroom",
+      "sellPrice": 3
+    },
+    {
+      "name": "Spicy Pepper",
+      "sellPrice": 3
+    },
+    {
+      "name": "Splash Fruit",
+      "sellPrice": 2
+    },
+    {
+      "name": "Stambulb",
+      "sellPrice": 4
+    },
+    {
+      "name": "Stamella Shroom",
+      "sellPrice": 5
+    },
+    {
+      "name": "Staminoka Bass",
+      "sellPrice": 18
+    },
+    {
+      "name": "Sun Pumpkin",
+      "sellPrice": 5
+    },
+    {
+      "name": "Sundelion",
+      "sellPrice": 8
+    },
+    {
+      "name": "Sunshroom",
+      "sellPrice": 4
+    },
+    {
+      "name": "Swift Carrot",
+      "sellPrice": 4
+    },
+    {
+      "name": "Swift Violet",
+      "sellPrice": 10
+    },
+    {
+      "name": "Tabantha Wheat",
+      "sellPrice": 3
+    },
+    {
+      "name": "Voltfin Trout",
+      "sellPrice": 6
+    },
+    {
+      "name": "Voltfruit",
+      "sellPrice": 4
+    },
+    {
+      "name": "Warm Safflina",
+      "sellPrice": 3
+    },
+    {
+      "name": "Wildberry",
+      "sellPrice": 3
+    },
+    {
+      "name": "Zapshroom",
+      "sellPrice": 4
+    }
+  ],
+  "dishes": [
+    {
+      "name": "Simmered Fruit",
+      "recipes": [
+        {
+          "ingredients": [
+            {
+              "Apple": 1
+            }
+          ],
+          "sellPrice": 3
+        },
+        {
+          "ingredients": [
+            {
+              "Apple": 2
+            }
+          ],
+          "sellPrice": 7
+        },
+        {
+          "ingredients": [
+            {
+              "Apple": 3
+            }
+          ],
+          "sellPrice": 12
+        },
+        {
+          "ingredients": [
+            {
+              "Apple": 4
+            }
+          ],
+          "sellPrice": 19
+        },
+        {
+          "ingredients": [
+            {
+              "Apple": 5
+            }
+          ],
+          "sellPrice": 27
+        },
+        {
+          "ingredients": [
+            {
+              "Golden Apple": 1
+            }
+          ],
+          "sellPrice": 9
+        },
+        {
+          "ingredients": [
+            {
+              "Golden Apple": 2
+            }
+          ],
+          "sellPrice": 20
+        },
+        {
+          "ingredients": [
+            {
+              "Golden Apple": 3
+            }
+          ],
+          "sellPrice": 33
+        },
+        {
+          "ingredients": [
+            {
+              "Golden Apple": 4
+            }
+          ],
+          "sellPrice": 51
+        },
+        {
+          "ingredients": [
+            {
+              "Golden Apple": 5
+            }
+          ],
+          "sellPrice": 72
+        },
+        {
+          "ingredients": [
+            {
+              "Palm Fruit": 1
+            }
+          ],
+          "sellPrice": 4
+        },
+        {
+          "ingredients": [
+            {
+              "Palm Fruit": 2
+            }
+          ],
+          "sellPrice": 10
+        },
+        {
+          "ingredients": [
+            {
+              "Palm Fruit": 3
+            }
+          ],
+          "sellPrice": 16
+        },
+        {
+          "ingredients": [
+            {
+              "Palm Fruit": 4
+            }
+          ],
+          "sellPrice": 25
+        },
+        {
+          "ingredients": [
+            {
+              "Palm Fruit": 5
+            }
+          ],
+          "sellPrice": 36
+        },
+        {
+          "ingredients": [
+            {
+              "Wildberry": 1
+            }
+          ],
+          "sellPrice": 3
+        },
+        {
+          "ingredients": [
+            {
+              "Wildberry": 2
+            }
+          ],
+          "sellPrice": 7
+        },
+        {
+          "ingredients": [
+            {
+              "Wildberry": 3
+            }
+          ],
+          "sellPrice": 12
+        },
+        {
+          "ingredients": [
+            {
+              "Wildberry": 4
+            }
+          ],
+          "sellPrice": 19
+        },
+        {
+          "ingredients": [
+            {
+              "Wildberry": 5
+            }
+          ],
+          "sellPrice": 27
+        }
+      ]
+    }
+  ]
+}
