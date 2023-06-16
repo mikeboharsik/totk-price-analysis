@@ -1,12 +1,28 @@
 {
-  "ingredients": [
+  "materials": [
     {
       "name": "Acorn",
       "sellPrice": 2
     },
     {
+      "name": "Aerocuda Eyeball",
+      "sellPrice": 4
+    },
+    {
+      "name": "Aerocuda Wing",
+      "sellPrice": 6
+    },
+    {
+      "name": "Amber",
+      "sellPrice": 10
+    },
+    {
       "name": "Ancient Arowana",
       "sellPrice": 6
+    },
+    {
+      "name": "Ancient Blade",
+      "sellPrice": 1
     },
     {
       "name": "Apple",
@@ -37,12 +53,112 @@
       "sellPrice": 3
     },
     {
+      "name": "Black Bokoblin Horn",
+      "sellPrice": 9
+    },
+    {
+      "name": "Black Boss Bokoblin Horn",
+      "sellPrice": 36
+    },
+    {
+      "name": "Black Hinox Horn",
+      "sellPrice": 60
+    },
+    {
+      "name": "Black Horriblin Horn",
+      "sellPrice": 15
+    },
+    {
+      "name": "Black Lizalfos Horn",
+      "sellPrice": 15
+    },
+    {
+      "name": "Black Lizalfos Tail",
+      "sellPrice": 22
+    },
+    {
+      "name": "Black Moblin Horn",
+      "sellPrice": 15
+    },
+    {
+      "name": "Blue Bokoblin Horn",
+      "sellPrice": 5
+    },
+    {
+      "name": "Blue Boss Bokoblin Horn",
+      "sellPrice": 26
+    },
+    {
+      "name": "Blue Hinox Horn",
+      "sellPrice": 35
+    },
+    {
+      "name": "Blue Horriblin Horn",
+      "sellPrice": 9
+    },
+    {
+      "name": "Blue Lizalfos Horn",
+      "sellPrice": 10
+    },
+    {
+      "name": "Blue Lizalfos Tail",
+      "sellPrice": 20
+    },
+    {
+      "name": "Blue Moblin Horn",
+      "sellPrice": 9
+    },
+    {
       "name": "Blue Nightshade",
       "sellPrice": 4
     },
     {
+      "name": "Blue-Maned Lynel Mace Horn",
+      "sellPrice": 70
+    },
+    {
+      "name": "Blue-Maned Lynel Saber Horn",
+      "sellPrice": 70
+    },
+    {
+      "name": "Blue-White Frox Fang",
+      "sellPrice": 40
+    },
+    {
+      "name": "Bokoblin Guts",
+      "sellPrice": 20
+    },
+    {
+      "name": "Bokoblin Fang",
+      "sellPrice": 8
+    },
+    {
+      "name": "Bokoblin Horn",
+      "sellPrice": 3
+    },
+    {
       "name": "Bomb Flower",
       "sellPrice": 10
+    },
+    {
+      "name": "Boss Bokoblin Fang",
+      "sellPrice": 15
+    },
+    {
+      "name": "Boss Bokoblin Horn",
+      "sellPrice": 14
+    },
+    {
+      "name": "Boss Bokoblin Guts",
+      "sellPrice": 60
+    },
+    {
+      "name": "Bright-Eyed Crab",
+      "sellPrice": 8
+    },
+    {
+      "name": "Brightbloom Seed",
+      "sellPrice": 2
     },
     {
       "name": "Brightcap",
@@ -51,6 +167,18 @@
     {
       "name": "Cane Sugar",
       "sellPrice": 3
+    },
+    {
+      "name": "Captain Construct I Horn",
+      "sellPrice": null
+    },
+    {
+      "name": "Captain Construct II Horn",
+      "sellPrice": 9
+    },
+    {
+      "name": "Captain Construct III Horn",
+      "sellPrice": 12
     },
     {
       "name": "Chickaloo Tree Nut",
@@ -63,6 +191,14 @@
     {
       "name": "Chillshroom",
       "sellPrice": 4
+    },
+    {
+      "name": "Chuchu Jelly",
+      "sellPrice": 2
+    },
+    {
+      "name": "Cold Darner",
+      "sellPrice": 2
     },
     {
       "name": "Cool Safflina",
@@ -81,6 +217,34 @@
       "sellPrice": 5
     },
     {
+      "name": "Deep Firefly",
+      "sellPrice": 2
+    },
+    {
+      "name": "Diamond",
+      "sellPrice": 500
+    },
+    {
+      "name": "Electric Darner",
+      "sellPrice": 2
+    },
+    {
+      "name": "Electric Keese Eyeball",
+      "sellPrice": 6
+    },
+    {
+      "name": "Electric Keese Wing",
+      "sellPrice": 8
+    },
+    {
+      "name": "Electric Lizalfos Horn",
+      "sellPrice": 15
+    },
+    {
+      "name": "Electric Lizalfos Tail",
+      "sellPrice": 22
+    },
+    {
       "name": "Electric Safflina",
       "sellPrice": 3
     },
@@ -93,11 +257,47 @@
       "sellPrice": 15
     },
     {
+      "name": "Farosh's Claw",
+      "sellPrice": 180
+    },
+    {
+      "name": "Farosh's Horn",
+      "sellPrice": 300
+    },
+    {
+      "name": "Fairy",
+      "sellPrice": 2
+    },
+    {
       "name": "Fire Fruit",
       "sellPrice": 3
     },
     {
+      "name": "Fire Keese Eyeball",
+      "sellPrice": 6
+    },
+    {
+      "name": "Fire Keese Wing",
+      "sellPrice": 8
+    },
+    {
+      "name": "Fire Like Stone",
+      "sellPrice": 25
+    },
+    {
+      "name": "Fire-Breath Lizalfos Horn",
+      "sellPrice": 15
+    },
+    {
+      "name": "Fireproof Lizard",
+      "sellPrice": 5
+    },
+    {
       "name": "Fleet-Lotus Seeds",
+      "sellPrice": 5
+    },
+    {
+      "name": "Flint",
       "sellPrice": 5
     },
     {
@@ -107,6 +307,54 @@
     {
       "name": "Fresh Milk",
       "sellPrice": 3
+    },
+    {
+      "name": "Frox Fang",
+      "sellPrice": 40
+    },
+    {
+      "name": "Frox Fingernail",
+      "sellPrice": 40
+    },
+    {
+      "name": "Frox Guts",
+      "sellPrice": 40
+    },
+    {
+      "name": "Giant Brightbloom Seed",
+      "sellPrice": 4
+    },
+    {
+      "name": "Gibdo Bone",
+      "sellPrice": 3
+    },
+    {
+      "name": "Gibdo Guts",
+      "sellPrice": 2
+    },
+    {
+      "name": "Gibdo Wing",
+      "sellPrice": 6
+    },
+    {
+      "name": "Gleeok Flame Horn",
+      "sellPrice": 70
+    },
+    {
+      "name": "Gleeok Frost Horn",
+      "sellPrice": 90
+    },
+    {
+      "name": "Gleeok Guts",
+      "sellPrice": 200
+    },
+    {
+      "name": "Gleeok Thunder Horn",
+      "sellPrice": 150
+    },
+    {
+      "name": "Gleeok Wing",
+      "sellPrice": 38
     },
     {
       "name": "Glowing Cave Fish",
@@ -133,6 +381,10 @@
       "sellPrice": 18
     },
     {
+      "name": "Hearty Lizard",
+      "sellPrice": 20
+    },
+    {
       "name": "Hearty Radish",
       "sellPrice": 20
     },
@@ -141,8 +393,44 @@
       "sellPrice": 20
     },
     {
+      "name": "Hightail Lizard",
+      "sellPrice": 2
+    },
+    {
+      "name": "Hinox Horn",
+      "sellPrice": 15
+    },
+    {
+      "name": "Hinox Toenail",
+      "sellPrice": 20
+    },
+    {
+      "name": "Hinox Tooth",
+      "sellPrice": 35
+    },
+    {
+      "name": "Horriblin Claw",
+      "sellPrice": 12
+    },
+    {
+      "name": "Horriblin Guts",
+      "sellPrice": 25
+    },
+    {
+      "name": "Horriblin Horn",
+      "sellPrice": 4
+    },
+    {
+      "name": "Hot-Footed Frog",
+      "sellPrice": 2
+    },
+    {
       "name": "Hydromelon",
       "sellPrice": 4
+    },
+    {
+      "name": "Hylian Pine Cone",
+      "sellPrice": 2
     },
     {
       "name": "Hylian Rice",
@@ -169,12 +457,88 @@
       "sellPrice": 3
     },
     {
+      "name": "Ice Keese Eyeball",
+      "sellPrice": 6
+    },
+    {
+      "name": "Ice Keese Wing",
+      "sellPrice": 8
+    },
+    {
+      "name": "Ice Like Stone",
+      "sellPrice": 25
+    },
+    {
+      "name": "Ice-Breath Lizalfos Horn",
+      "sellPrice": 0
+    },
+    {
+      "name": "Ice-Breath Lizalfos Tail",
+      "sellPrice": 0
+    },
+    {
+      "name": "Ironshell Crab",
+      "sellPrice": 8
+    },
+    {
       "name": "Ironshroom",
       "sellPrice": 5
     },
     {
+      "name": "Keese Eyeball",
+      "sellPrice": 2
+    },
+    {
+      "name": "Keese Wing",
+      "sellPrice": 3
+    },
+    {
       "name": "Korok Frond",
       "sellPrice": 3
+    },
+    {
+      "name": "Large Zonai Charge",
+      "sellPrice": 10
+    },
+    {
+      "name": "Large Zonaite",
+      "sellPrice": 6
+    },
+    {
+      "name": "Like Like Stone",
+      "sellPrice": 15
+    },
+    {
+      "name": "Lizalfos Horn",
+      "sellPrice": 8
+    },
+    {
+      "name": "Lizalfos Tail",
+      "sellPrice": 18
+    },
+    {
+      "name": "Lizalfos Talon",
+      "sellPrice": 15
+    },
+    {
+      "name": "Luminous Stone",
+      "sellPrice": 20
+    },
+    {
+      "name": "Lynel Guts",
+      "sellPrice": 200
+    },
+    {
+      "name": "Lynel Hoof",
+      "sellPrice": 50
+    },
+    {
+      "name": "Lynel Mace Horn",
+      "sellPrice": 40
+    },
+    {
+      "name": "Lynel Saber Horn",
+      "sellPrice": 40
     },
     {
       "name": "Mighty Banana",
@@ -193,6 +557,30 @@
       "sellPrice": 5
     },
     {
+      "name": "Moblin Fang",
+      "sellPrice": 12
+    },
+    {
+      "name": "Moblin Guts",
+      "sellPrice": 25
+    },
+    {
+      "name": "Moblin Horn",
+      "sellPrice": 5
+    },
+    {
+      "name": "Molduga Fin",
+      "sellPrice": 30
+    },
+    {
+      "name": "Molduga Guts",
+      "sellPrice": 110
+    },
+    {
+      "name": "Molduga Jaw",
+      "sellPrice": 30
+    },
+    {
       "name": "Monster Extract",
       "sellPrice": 12
     },
@@ -201,8 +589,28 @@
       "sellPrice": 10
     },
     {
+      "name": "Obsidian Frox Fang",
+      "sellPrice": 40
+    },
+    {
+      "name": "Octo Balloon",
+      "sellPrice": 5
+    },
+    {
+      "name": "Octorok Eyeball",
+      "sellPrice": 4
+    },
+    {
+      "name": "Octorok Tentacle",
+      "sellPrice": 10
+    },
+    {
       "name": "Oil Jar",
       "sellPrice": 3
+    },
+    {
+      "name": "Opal",
+      "sellPrice": 30
     },
     {
       "name": "Palm Fruit",
@@ -233,12 +641,28 @@
       "sellPrice": 15
     },
     {
+      "name": "Razorclaw Crab",
+      "sellPrice": 8
+    },
+    {
       "name": "Razorshroom",
       "sellPrice": 5
     },
     {
+      "name": "Red Chuchu Jelly",
+      "sellPrice": 4
+    },
+    {
+      "name": "Restless Cricket",
+      "sellPrice": 2
+    },
+    {
       "name": "Rock Salt",
       "sellPrice": 2
+    },
+    {
+      "name": "Ruby",
+      "sellPrice": 110
     },
     {
       "name": "Rushroom",
@@ -249,8 +673,20 @@
       "sellPrice": 20
     },
     {
+      "name": "Sapphire",
+      "sellPrice": 150
+    },
+    {
+      "name": "Shard of Farosh's Fang",
+      "sellPrice": 0
+    },
+    {
       "name": "Shock Fruit",
       "sellPrice": 3
+    },
+    {
+      "name": "Shock Like Stone",
+      "sellPrice": 25
     },
     {
       "name": "Silent Princess",
@@ -261,6 +697,38 @@
       "sellPrice": 3
     },
     {
+      "name": "Silver Bokoblin Horn",
+      "sellPrice": 25
+    },
+    {
+      "name": "Silver Boss Bokoblin Horn",
+      "sellPrice": 44
+    },
+    {
+      "name": "Silver Horriblin Horn",
+      "sellPrice": 30
+    },
+    {
+      "name": "Silver Lizalfos Horn",
+      "sellPrice": 30
+    },
+    {
+      "name": "Silver Lizalfos Tail",
+      "sellPrice": 24
+    },
+    {
+      "name": "Silver Lynel Mace Horn",
+      "sellPrice": 150
+    },
+    {
+      "name": "Silver Lynel Saber Horn",
+      "sellPrice": 150
+    },
+    {
+      "name": "Silver Moblin Horn",
+      "sellPrice": 30
+    },
+    {
       "name": "Sizzlefin Trout",
       "sellPrice": 6
     },
@@ -269,12 +737,40 @@
       "sellPrice": 3
     },
     {
+      "name": "Smotherwing Butterfly",
+      "sellPrice": 2
+    },
+    {
+      "name": "Sneaky River Snail",
+      "sellPrice": 6
+    },
+    {
+      "name": "Soldier Construct Horn",
+      "sellPrice": 2
+    },
+    {
+      "name": "Solder Construct II Horn",
+      "sellPrice": 4
+    },
+    {
+      "name": "Soldier Construct III Horn",
+      "sellPrice": 10
+    },
+    {
+      "name": "Soldier Construct IV Horn",
+      "sellPrice": 24
+    },
+    {
       "name": "Spicy Pepper",
       "sellPrice": 3
     },
     {
       "name": "Splash Fruit",
       "sellPrice": 2
+    },
+    {
+      "name": "Stalnox Horn",
+      "sellPrice": 15
     },
     {
       "name": "Stambulb",
@@ -289,12 +785,28 @@
       "sellPrice": 18
     },
     {
+      "name": "Sticky Frog",
+      "sellPrice": 10
+    },
+    {
+      "name": "Sticky Lizard",
+      "sellPrice": 8
+    },
+    {
+      "name": "Summerwing Butterfly",
+      "sellPrice": 2
+    },
+    {
       "name": "Sun Pumpkin",
       "sellPrice": 5
     },
     {
       "name": "Sundelion",
       "sellPrice": 8
+    },
+    {
+      "name": "Sunset Firefly",
+      "sellPrice": 2
     },
     {
       "name": "Sunshroom",
@@ -313,6 +825,18 @@
       "sellPrice": 3
     },
     {
+      "name": "Thunderwing Butterfly",
+      "sellPrice": 2
+    },
+    {
+      "name": "Tireless Frog",
+      "sellPrice": 20
+    },
+    {
+      "name": "Topaz",
+      "sellPrice": 80
+    },
+    {
       "name": "Voltfin Trout",
       "sellPrice": 6
     },
@@ -321,16 +845,52 @@
       "sellPrice": 4
     },
     {
+      "name": "Warm Darner",
+      "sellPrice": 2
+    },
+    {
       "name": "Warm Safflina",
       "sellPrice": 3
+    },
+    {
+      "name": "White Chuchu Jelly",
+      "sellPrice": 4
+    },
+    {
+      "name": "White-Maned Lynel Mace Horn",
+      "sellPrice": 90
+    },
+    {
+      "name": "White-Maned Lynel Saber Horn",
+      "sellPrice": 90
     },
     {
       "name": "Wildberry",
       "sellPrice": 3
     },
     {
+      "name": "Winterwing Butterfly",
+      "sellPrice": 2
+    },
+    {
+      "name": "Wood",
+      "sellPrice": 2
+    },
+    {
+      "name": "Yellow Chuchu Jelly",
+      "sellPrice": 4
+    },
+    {
       "name": "Zapshroom",
       "sellPrice": 4
+    },
+    {
+      "name": "Zonai Charge",
+      "sellPrice": 6
+    },
+    {
+      "name": "Zonaite",
+      "sellPrice": 3
     }
   ],
   "dishes": [
