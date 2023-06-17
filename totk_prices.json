@@ -470,11 +470,11 @@
     },
     {
       "name": "Ice-Breath Lizalfos Horn",
-      "sellPrice": 0
+      "sellPrice": 15
     },
     {
       "name": "Ice-Breath Lizalfos Tail",
-      "sellPrice": 0
+      "sellPrice": 22
     },
     {
       "name": "Ironshell Crab",
@@ -678,7 +678,7 @@
     },
     {
       "name": "Shard of Farosh's Fang",
-      "sellPrice": 0
+      "sellPrice": 250
     },
     {
       "name": "Shock Fruit",
@@ -962,6 +962,176 @@
       ]
     },
     {
+      "name": "Energizing Mushroom Skewer",
+      "recipes": [
+        {
+          "ingredients": {
+            "Stamella Shroom": 1
+          },
+          "sellPrice": 6
+        },
+        {
+          "ingredients": {
+            "Stamella Shroom": 2
+          },
+          "sellPrice": 13
+        },
+        {
+          "ingredients": {
+            "Stamella Shroom": 3
+          },
+          "sellPrice": 21
+        },
+        {
+          "ingredients": {
+            "Stamella Shroom": 4
+          },
+          "sellPrice": 32
+        },
+        {
+          "ingredients": {
+            "Stamella Shroom": 5
+          },
+          "sellPrice": 45
+        }
+      ]
+    },
+    {
+      "name": "Energizing Seafood Skewer",
+      "recipes": [
+        {
+          "ingredients": {
+            "Bright-Eyed Crab": 1
+          },
+          "sellPrice": 9
+        },
+        {
+          "ingredients": {
+            "Bright-Eyed Crab": 2
+          },
+          "sellPrice": 20
+        },
+        {
+          "ingredients": {
+            "Bright-Eyed Crab": 3
+          },
+          "sellPrice": 33
+        },
+        {
+          "ingredients": {
+            "Bright-Eyed Crab": 4
+          },
+          "sellPrice": 51
+        },
+        {
+          "ingredients": {
+            "Bright-Eyed Crab": 5
+          },
+          "sellPrice": 72
+        }
+      ]
+    },
+    {
+      "name": "Fish Skewer",
+      "recipes": [
+        {
+          "ingredients": {
+            "Ancient Arowana": 1
+          },
+          "sellPrice": 7
+        },
+        {
+          "ingredients": {
+            "Ancient Arowana": 2
+          },
+          "sellPrice": 15
+        },
+        {
+          "ingredients": {
+            "Ancient Arowana": 3
+          },
+          "sellPrice": 25
+        },
+        {
+          "ingredients": {
+            "Ancient Arowana": 4
+          },
+          "sellPrice": 38
+        },
+        {
+          "ingredients": {
+            "Ancient Arowana": 5
+          },
+          "sellPrice": 54
+        }
+      ]
+    },
+    {
+      "name": "Fried Wild Greens",
+      "recipes": [
+        {
+          "ingredients": {
+            "Hyrule Herb": 1
+          },
+          "sellPrice": 3
+        },
+        {
+          "ingredients": {
+            "Hyrule Herb": 2
+          },
+          "sellPrice": 7
+        },
+        {
+          "ingredients": {
+            "Hyrule Herb": 3
+          },
+          "sellPrice": 12
+        },
+        {
+          "ingredients": {
+            "Hyrule Herb": 4
+          },
+          "sellPrice": 19
+        },
+        {
+          "ingredients": {
+            "Hyrule Herb": 5
+          },
+          "sellPrice": 27
+        },
+        {
+          "ingredients": {
+            "Korok Frond": 1
+          },
+          "sellPrice": 3
+        },
+        {
+          "ingredients": {
+            "Korok Frond": 2
+          },
+          "sellPrice": 7
+        },
+        {
+          "ingredients": {
+            "Korok Frond": 3
+          },
+          "sellPrice": 12
+        },
+        {
+          "ingredients": {
+            "Korok Frond": 4
+          },
+          "sellPrice": 19
+        },
+        {
+          "ingredients": {
+            "Korok Frond": 5
+          },
+          "sellPrice": 27
+        }
+      ]
+    },
+    {
       "name": "Hasty Simmered Fruit",
       "recipes": [
         {
@@ -1105,6 +1275,106 @@
       ]
     },
     {
+      "name": "Mighty Simmered Fruit",
+      "recipes": [
+        {
+          "ingredients": {
+            "Mighty Banana": 1
+          },
+          "sellPrice": 6
+        },
+        {
+          "ingredients": {
+            "Mighty Banana": 2
+          },
+          "sellPrice": 13
+        },
+        {
+          "ingredients": {
+            "Mighty Banana": 3
+          },
+          "sellPrice": 21
+        },
+        {
+          "ingredients": {
+            "Mighty Banana": 4
+          },
+          "sellPrice": 32
+        },
+        {
+          "ingredients": {
+            "Mighty Banana": 5
+          },
+          "sellPrice": 45
+        }
+      ]
+    },
+    {
+      "name": "Mushroom Skewer",
+      "recipes": [
+        {
+          "ingredients": {
+            "Hylian Shroom": 1
+          },
+          "sellPrice": 3
+        },
+        {
+          "ingredients": {
+            "Hylian Shroom": 2
+          },
+          "sellPrice": 7
+        },
+        {
+          "ingredients": {
+            "Hylian Shroom": 3
+          },
+          "sellPrice": 12
+        },
+        {
+          "ingredients": {
+            "Hylian Shroom": 4
+          },
+          "sellPrice": 19
+        },
+        {
+          "ingredients": {
+            "Hylian Shroom": 5
+          },
+          "sellPrice": 27
+        },
+        {
+          "ingredients": {
+            "Skyshroom": 1
+          },
+          "sellPrice": 3
+        },
+        {
+          "ingredients": {
+            "Skyshroom": 2
+          },
+          "sellPrice": 7
+        },
+        {
+          "ingredients": {
+            "Skyshroom": 3
+          },
+          "sellPrice": 12
+        },
+        {
+          "ingredients": {
+            "Skyshroom": 4
+          },
+          "sellPrice": 19
+        },
+        {
+          "ingredients": {
+            "Skyshroom": 5
+          },
+          "sellPrice": 27
+        }
+      ]
+    },
+    {
       "name": "Omelet",
       "recipes": [
         {
@@ -1153,6 +1423,71 @@
             "Mighty Porgy": 1
           },
           "sellPrice": 15
+        }
+      ]
+    },
+    {
+      "name": "Sauteed Nuts",
+      "recipes": [
+        {
+          "ingredients": {
+            "Acorn": 1
+          },
+          "sellPrice": 2
+        },
+        {
+          "ingredients": {
+            "Acorn": 2
+          },
+          "sellPrice": 5
+        },
+        {
+          "ingredients": {
+            "Acorn": 3
+          },
+          "sellPrice": 8
+        },
+        {
+          "ingredients": {
+            "Acorn": 4
+          },
+          "sellPrice": 12
+        },
+        {
+          "ingredients": {
+            "Acorn": 5
+          },
+          "sellPrice": 18
+        },
+        {
+          "ingredients": {
+            "Chickaloo Tree Nut": 1
+          },
+          "sellPrice": 3
+        },
+        {
+          "ingredients": {
+            "Chickaloo Tree Nut": 2
+          },
+          "sellPrice": 7
+        },
+        {
+          "ingredients": {
+            "Chickaloo Tree Nut": 3
+          },
+          "sellPrice": 12
+        },
+        {
+          "ingredients": {
+            "Chickaloo Tree Nut": 4
+          },
+          "sellPrice": 19
+        },
+        {
+          "ingredients": {
+            "Chickaloo Tree Nut": 5
+          },
+          "sellPrice": 27
         }
       ]
     },
@@ -1342,8 +1677,73 @@
       ]
     },
     {
+      "name": "Simmered Tomato",
+      "recipes": [
+        {
+          "ingredients": {
+            "Hylian Tomato": 1
+          },
+          "sellPrice": 4
+        },
+        {
+          "ingredients": {
+            "Hylian Tomato": 2
+          },
+          "sellPrice": 10
+        },
+        {
+          "ingredients": {
+            "Hylian Tomato": 3
+          },
+          "sellPrice": 16
+        },
+        {
+          "ingredients": {
+            "Hylian Tomato": 4
+          },
+          "sellPrice": 25
+        },
+        {
+          "ingredients": {
+            "Hylian Tomato": 5
+          },
+          "sellPrice": 36
+        }
+      ]
+    },
+    {
       "name": "Sneaky Fried Wild Greens",
       "recipes": [
+        {
+          "ingredients": {
+            "Blue Nightshade": 1
+          },
+          "sellPrice": 4
+        },
+        {
+          "ingredients": {
+            "Blue Nightshade": 2
+          },
+          "sellPrice": 10
+        },
+        {
+          "ingredients": {
+            "Blue Nightshade": 3
+          },
+          "sellPrice": 16
+        },
+        {
+          "ingredients": {
+            "Blue Nightshade": 4
+          },
+          "sellPrice": 25
+        },
+        {
+          "ingredients": {
+            "Blue Nightshade": 5
+          },
+          "sellPrice": 36
+        },        
         {
           "ingredients": {
             "Silent Princess": 1
@@ -1373,6 +1773,146 @@
             "Silent Princess": 5
           },
           "sellPrice": 90
+        }
+      ]
+    },
+    {
+      "name": "Sneaky Mushroom Skewer",
+      "recipes": [
+        {
+          "ingredients": {
+            "Silent Shroom": 1
+          },
+          "sellPrice": 3
+        },
+        {
+          "ingredients": {
+            "Silent Shroom": 2
+          },
+          "sellPrice": 7
+        },
+        {
+          "ingredients": {
+            "Silent Shroom": 3
+          },
+          "sellPrice": 12
+        },
+        {
+          "ingredients": {
+            "Silent Shroom": 4
+          },
+          "sellPrice": 19
+        },
+        {
+          "ingredients": {
+            "Silent Shroom": 5
+          },
+          "sellPrice": 27
+        }
+      ]
+    },
+    {
+      "name": "Sneaky Seafood Skewer",
+      "recipes": [
+        {
+          "ingredients": {
+            "Sneaky River Snail": 1
+          },
+          "sellPrice": 7
+        },
+        {
+          "ingredients": {
+            "Sneaky River Snail": 2
+          },
+          "sellPrice": 15
+        },
+        {
+          "ingredients": {
+            "Sneaky River Snail": 3
+          },
+          "sellPrice": 25
+        },
+        {
+          "ingredients": {
+            "Sneaky River Snail": 4
+          },
+          "sellPrice": 38
+        },
+        {
+          "ingredients": {
+            "Sneaky River Snail": 5
+          },
+          "sellPrice": 54
+        }
+      ]
+    },
+    {
+      "name": "Spicy Sauteed Peppers",
+      "recipes": [
+        {
+          "ingredients": {
+            "Spicy Pepper": 1
+          },
+          "sellPrice": 3
+        },
+        {
+          "ingredients": {
+            "Spicy Pepper": 2
+          },
+          "sellPrice": 7
+        },
+        {
+          "ingredients": {
+            "Spicy Pepper": 3
+          },
+          "sellPrice": 12
+        },
+        {
+          "ingredients": {
+            "Spicy Pepper": 4
+          },
+          "sellPrice": 19
+        },
+        {
+          "ingredients": {
+            "Spicy Pepper": 5
+          },
+          "sellPrice": 27
+        }
+      ]
+    },
+    {
+      "name": "Sunny Fried Greens",
+      "recipes": [
+        {
+          "ingredients": {
+            "Sundelion": 1
+          },
+          "sellPrice": 9
+        },
+        {
+          "ingredients": {
+            "Sundelion": 2
+          },
+          "sellPrice": 20
+        },
+        {
+          "ingredients": {
+            "Sundelion": 3
+          },
+          "sellPrice": 33
+        },
+        {
+          "ingredients": {
+            "Sundelion": 4
+          },
+          "sellPrice": 51
+        },
+        {
+          "ingredients": {
+            "Sundelion": 5
+          },
+          "sellPrice": 72
         }
       ]
     },
